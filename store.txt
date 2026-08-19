@@ -1,0 +1,5 @@
+Laptop,100000,100
+Monitor,25000,65
+Speaker,10000,50
+Mouse,3000,980
+Adapter,6000,690
